@@ -67,5 +67,5 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE).
 
 ## Author / Maintainer
 Coding Droplets
-- Hashnode: https://codingdroplets.com
-- Patreon: https://www.patreon.com/codingdroplets
+- Visit Now: https://codingdroplets.com
+- Join our Patreon to Learn & Level Up: https://www.patreon.com/codingdroplets
